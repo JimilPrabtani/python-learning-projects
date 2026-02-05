@@ -6,15 +6,6 @@ Welcome to my Python learning repository!, I'm learning and exploring python lan
 
 I'm a cybersecurity student passionate about programming, security, and problem-solving. I'm learning Python to strengthen my skills in automation, scripting, and security tools development.
 
-## 📚 Projects
-
-### 1. Discount Calculator
-A simple price discount calculator that validates inputs and calculates final prices after applying percentage discounts.
-- **Skills learned**: Functions, input validation, type checking, error handling
-- **Location**: `/discount-calculator/`
-
-*More projects coming soon as I continue learning!*
-
 ## 🎯 Learning Goals
 
 - Master Python fundamentals (data types, functions, control flow)
